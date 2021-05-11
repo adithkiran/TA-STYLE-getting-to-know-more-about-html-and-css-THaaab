@@ -1,0 +1,55 @@
+#headingbar {
+    background-color: rgb(199,134,199);
+    padding: 20px;
+    text-align: center;
+}
+#footerbar {
+    background-color: rgb(144,144,231);
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:black;    
+    
+}
+
+h2 {
+    
+    color: blue;    
+    margin: 16px auto;
+    text-align: left;
+}
+
+
+.blog{
+    width: 600px;
+    margin: 0 auto;
+    
+}
+.date {
+    color: blue;
+    margin: 16px auto;
+    text-align: left;
+}
+
+h3 {
+    
+    color: black;    
+    margin: 16px auto;
+    text-transform: capitalize;
+    text-align: left;
+}
+.para {
+    margin: 16px auto;
+    text-align: left;
+}
+body {
+    line-height: 1.5;
+    
+}
+
+a {
+    text-decoration: none;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
